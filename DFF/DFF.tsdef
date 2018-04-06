@@ -1,0 +1,6 @@
+﻿; TraceDefId,Name,Units,DataTyps,ElementName,Terminal,TraceType,FeatureFlags
+version,150005
+0,,Seconds,DataTypeDouble,,,Time,0x00
+1,,Volts,DataTypeDouble,CLK,,V,0x1001
+2,,Volts,DataTypeDouble,D,,V,0x1001
+3,,Volts,DataTypeDouble,Q,,V,0x1001

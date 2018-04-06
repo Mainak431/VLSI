@@ -1,0 +1,19 @@
+(edif DFlipFlop
+	(edifVersion 2 0 0)
+	(edifLevel 0)
+	(keywordMap
+		(keywordLevel 0)
+	)
+	(status
+		(written
+			(timestamp 2016 07 20 16 41 17)
+			(author "Mainak")
+			(program "Tanner S-Edit"
+				(version "13.00 build 3793")
+			)
+			(property TannerEdifVersion
+				(integer 10)
+			)
+		)
+	)
+)
